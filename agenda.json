@@ -1,0 +1,8 @@
+{
+	"contatos":[
+		{"nome":"Atico","tel": "123456","idade":   18},
+		{"nome":"Luciana","tel": "123456","idade":   8},
+		{"nome":"Mario","tel": "123456","idade":   33},
+		{"nome":"Carlos","tel": "123456","idade":   99}
+	]
+}
